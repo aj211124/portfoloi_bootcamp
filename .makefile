@@ -34,6 +34,6 @@ endif
   git push -u -f origin main
 
   @echo "✅ Finished deploy: $(GITHUB_REPO)"
-  @echo "🚀 Flutter web URL: https://$(GITHUB_USER).github.io/portfoloi_bootcamp"
+  @echo "🚀 Flutter web URL: https://aj211124.github.io/portfoloi_bootcamp"
 
 .PHONY: deploy
